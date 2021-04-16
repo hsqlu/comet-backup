@@ -3,6 +3,7 @@ Comet Backup
 
 I solved the extensions from 1 to 5. I had a look at others and came across some ideas but no time to implement them. 
 
+NOTE: I found there are somewhere can be refactored to be more structural and extendable, but I paid more attention on solving the problems directly rather than designing good interfaces.    
 
 # Usage
 
